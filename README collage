@@ -1,0 +1,23 @@
+Features
+1. Accepts four image file paths as input.
+2. Resizes the images to match the smallest dimensions for uniformity.
+3. Automatically arranges the images into a 2x2 grid.
+4. Saves the collage as collage.jpg in the current directory.
+
+Requirements
+1. Python Version
+Python 3.7 or higher.
+2. Python Packages
+Pillow (Python Imaging Library)
+
+3. Prepare Input Images
+Ensure you have four image files in supported formats (e.g., .jpg, .png, .bmp). Note their file paths.
+4. Run the code
+5. The program will prompt you to enter the paths to four images. For example:
+   Path to image 1: /path/to/image1.jpg
+   Path to image 2: /path/to/image2.jpg
+   Path to image 3: /path/to/image3.jpg
+   Path to image 4: /path/to/image4.jpg
+
+6. The collage will be saved as collage.jpg in the current directory. 
+   Open the file to view your collage.

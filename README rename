@@ -1,0 +1,28 @@
+# File Renaming CODE
+
+# Description
+This script renames all files in a specified folder by numbering them sequentially, starting from 1. It retains the original file extensions and ignores subdirectories or non-file items.
+
+# Requirements
+- Python 3.x
+- Read and write permissions for the specified folder.
+
+# Usage
+1. Save the script as `rename_files.py`.
+2. Run the script:
+   ```bash
+   python rename_files.py
+3. Enter the folder path when prompted. Enter the path in string (" ").
+
+For Example :
+The INPUT is 
+my_folder/
+├── image1.jpg
+├── document.txt
+├── report.pdf
+
+Then the output will be 
+my_folder/
+├── 1.jpg
+├── 2.txt
+├── 3.pdf

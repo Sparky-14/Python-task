@@ -1,0 +1,11 @@
+
+1. Save the zip_folder.py script to your computer.
+2. Run the script using Python:
+python zip_folder.py
+
+3. Enter the path to the folder you want to compress when prompted.
+4. (Optional) Provide a custom name for the resulting .zip file.
+   If left blank, the program will use the folder's name.
+   Enter the path in string (" ").
+
+
